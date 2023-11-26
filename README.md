@@ -6,7 +6,7 @@ In JavaScript, data types refer to the kind of data that a variable can hold.
 JavaScript has several built-in data types that can be broadly categorized into two groups: primitive data types and non primitive or reference data types
 
 
-1. String
+#String
 
 Represents textual data. it can be intialised with ''  "" 
 
